@@ -1,7 +1,7 @@
 # SKU_Management
 
 ## 📌 Project Overview  
-AutoInsight is a platform designed to help businesses navigate challenges during layoffs and restructuring. It leverages data analysis, forecasting, and machine learning models to assist in decision-making, minimizing reliance on human resources.  
+SKU Management System helps businesses optimize inventory tracking and demand forecasting using data analysis and machine learning, improving stock efficiency and decision-making.
 
 ## 🛠️ Tech Stack  
 - **Frontend**: React, Vite, Tailwind CSS  
