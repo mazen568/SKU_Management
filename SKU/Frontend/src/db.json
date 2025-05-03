@@ -1,0 +1,985 @@
+{
+  "branches": [
+    {
+      "id": "1",
+      "name": "Cairo HQ",
+      "location": "Cairo, Egypt",
+      "contact": "02-12345678"
+    },
+    {
+      "id": "2",
+      "name": "Alex Branch",
+      "location": "Alexandria, Egypt",
+      "contact": "03-87654321"
+    },
+    {
+      "id": "3",
+      "name": "Giza Store",
+      "location": "Giza, Egypt",
+      "contact": "02-99887766"
+    },
+    {
+      "id": "4",
+      "name": "Luxor Outlet",
+      "location": "Luxor, Egypt",
+      "contact": "095-55667788"
+    },
+    {
+      "id": "5",
+      "name": "Mansoura HQ",
+      "location": "Al Mansoura",
+      "contact": "095-55667788"
+    },
+    {
+      "id": "6",
+      "name": "Dahqahlia HQ",
+      "location": "Al Dahqahlia",
+      "contact": "05-38947289374"
+    },
+    {
+      "id": "7",
+      "name": "Las Vegas Branch",
+      "location": "Las Vegas, USA",
+      "contact": "+1-702-555-0199"
+    },
+    {
+      "id": "8",
+      "name": "Cairo Downtown",
+      "location": "Cairo, Egypt",
+      "contact": "02-98765432"
+    },
+    {
+      "id": "9",
+      "name": "CAIRO",
+      "location": "LAS VEGAS",
+      "contact": "MAZENRAAFAT@GMAIL.COM"
+    },
+    {
+      "id": "10",
+      "name": "Alex Branch5",
+      "location": "Alexandria, Egypt1",
+      "contact": "MAZENRAAFAT@GMAIL.COMK"
+    },
+    {
+      "id": "11",
+      "name": "CHICAGO branch",
+      "location": "CHICAGO",
+      "contact": "MAZENRAFAT@GMAIL.COM"
+    },
+    {
+      "id": 12,
+      "name": "jkdfhdsjkhsdfj",
+      "location": "sdfasdfasdf",
+      "contact": "asdfasdfasdf"
+    },
+    {
+      "id": 13,
+      "name": "34534534",
+      "location": "LAS 34534345345",
+      "contact": "34534535"
+    },
+    {
+      "id": 14,
+      "name": "545645654",
+      "location": "432423423423",
+      "contact": "234234234"
+    },
+    {
+      "id": 15,
+      "name": "234234234234",
+      "location": "2342342342",
+      "contact": "3242342"
+    },
+    {
+      "id": 16,
+      "name": "mmmmmmm",
+      "location": "mmmmmmmmm",
+      "contact": "mmmmmmmm"
+    },
+    {
+      "id": 17,
+      "name": "hello",
+      "location": "asdadasda",
+      "contact": "asdasdasdasd"
+    },
+    {
+      "id": 18,
+      "name": "asdasdas",
+      "location": "asdasda",
+      "contact": "asdasdsad"
+    },
+    {
+      "id": 19,
+      "name": "asdasda",
+      "location": "asdasdasda",
+      "contact": "asdasd"
+    },
+    {
+      "id": 20,
+      "name": "asdasdasasdasd",
+      "location": "asdadas",
+      "contact": "asdasdasd"
+    },
+    {
+      "id": 21,
+      "name": "34534535343453",
+      "location": "53453",
+      "contact": "3453453453"
+    },
+    {
+      "id": 22,
+      "name": "3rwerwer",
+      "location": "werwerwe",
+      "contact": "rwerwe"
+    },
+    {
+      "id": 23,
+      "name": "2342342342342423",
+      "location": "23423423423",
+      "contact": "2342342344"
+    },
+    {
+      "id": 24,
+      "name": "234234234234234234",
+      "location": "2342342342342342",
+      "contact": "234234234234234"
+    },
+    {
+      "id": 25,
+      "name": "76556756756",
+      "location": "56756756756",
+      "contact": "56757567"
+    },
+    {
+      "id": 26,
+      "name": "france branch",
+      "location": "france",
+      "contact": "france@gmail.com"
+    }
+  ],
+  "skus": [
+    {
+      "id": "101",
+      "sku_code": "SKU-001",
+      "item_name": "Laptop Pro",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "brand": "TechMax",
+      "active": false,
+      "branch_id": "1",
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-001&code=QRCode",
+      "quantity": 213173,
+      "reserved": 2,
+      "reorder_threshold": 5,
+      "adjustments": [
+        {
+          "id": "1745351281414",
+          "adjustment": -12,
+          "reason": "return",
+          "date": "2025-04-22T19:48:01.414Z"
+        },
+        {
+          "id": "1745351837505",
+          "adjustment": 10,
+          "reason": "return",
+          "date": "2025-04-22T19:57:17.505Z"
+        },
+        {
+          "id": "1745352089587",
+          "adjustment": -5,
+          "reason": "return",
+          "date": "2025-04-22T20:01:29.587Z"
+        },
+        {
+          "id": "1745352098571",
+          "adjustment": 5,
+          "reason": "return",
+          "date": "2025-04-22T20:01:38.571Z"
+        },
+        {
+          "id": "1745352111196",
+          "adjustment": -5,
+          "reason": "theft",
+          "date": "2025-04-22T20:01:51.196Z"
+        },
+        {
+          "id": "1746256030436",
+          "adjustment": -10,
+          "reason": "return",
+          "date": "2025-05-03T07:07:10.436Z"
+        },
+        {
+          "id": "1746256058662",
+          "adjustment": 30,
+          "reason": "found",
+          "date": "2025-05-03T07:07:38.662Z"
+        },
+        {
+          "id": "1746256706345",
+          "adjustment": 30,
+          "reason": "return",
+          "date": "2025-05-03T07:18:26.345Z"
+        },
+        {
+          "id": "1746260174185",
+          "adjustment": 213123,
+          "reason": "return",
+          "date": "2025-05-03T08:16:14.185Z"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "sku_code": "SKU-002",
+      "item_name": "Wireless Mouse",
+      "category": "Accessories",
+      "subcategory": "Input Devices",
+      "brand": "Clicky",
+      "active": false,
+      "branch_id": "2",
+      "barcode": "",
+      "quantity": 8,
+      "reserved": 3,
+      "reorder_threshold": 10,
+      "adjustments": []
+    },
+    {
+      "id": "103",
+      "sku_code": "SKU-003",
+      "item_name": "Smartphone X",
+      "category": "Electronics",
+      "subcategory": "Mobiles",
+      "brand": "PhoneNova",
+      "active": true,
+      "branch_id": "3",
+      "barcode": "",
+      "quantity": 10,
+      "reserved": 5,
+      "reorder_threshold": 5,
+      "adjustments": [
+        {
+          "id": "2",
+          "date": "2023-05-15",
+          "quantity": 5,
+          "reason": "Correction from audit",
+          "user": "admin"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "sku_code": "SKU-004",
+      "item_name": "LED Monitor",
+      "category": "Electronics",
+      "subcategory": "Displays",
+      "brand": "ViewBright",
+      "active": false,
+      "branch_id": "1",
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-004&code=QRCode",
+      "quantity": 1,
+      "reserved": 1,
+      "reorder_threshold": 6,
+      "adjustments": [
+        {
+          "id": "1",
+          "date": "2023-05-10",
+          "quantity": -2,
+          "reason": "Returned item damaged",
+          "user": "warehouse"
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "sku_code": "SKU-005",
+      "item_name": "USB-C Cable",
+      "category": "Accessories",
+      "subcategory": "Cables",
+      "brand": "WireWorld",
+      "active": false,
+      "branch_id": "4",
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-005&code=QRCode",
+      "quantity": 3514,
+      "reserved": 2,
+      "reorder_threshold": 15,
+      "adjustments": [
+        {
+          "id": "1745350530662",
+          "date": "2025-04-22",
+          "quantity": -10,
+          "reason": "damaged",
+          "user": "current_user"
+        },
+        {
+          "id": "1746260229482",
+          "adjustment": 30,
+          "reason": "found",
+          "date": "2025-05-03T08:17:09.482Z"
+        },
+        {
+          "id": "1746262161299",
+          "adjustment": 10,
+          "reason": "found",
+          "date": "2025-05-03T08:49:21.299Z"
+        },
+        {
+          "id": "1746262294703",
+          "adjustment": 3333,
+          "reason": "damaged",
+          "date": "2025-05-03T08:51:34.703Z"
+        },
+        {
+          "id": "1746262586295",
+          "adjustment": 101,
+          "reason": "damaged",
+          "date": "2025-05-03T08:56:26.295Z"
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "sku_code": "SKU-006",
+      "item_name": "Bluetooth Speaker",
+      "category": "Audio",
+      "subcategory": "Speakers",
+      "brand": "BassBoom",
+      "active": false,
+      "branch_id": "3",
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-006&code=code128",
+      "quantity": -11223,
+      "reserved": 4,
+      "reorder_threshold": 5,
+      "adjustments": [
+        {
+          "id": "1745350950264",
+          "date": "2025-04-22",
+          "quantity": 50,
+          "reason": "return"
+        },
+        {
+          "id": "1745350980020",
+          "date": "2025-04-22",
+          "quantity": -50,
+          "reason": "found"
+        },
+        {
+          "id": "1745351006754",
+          "date": "2025-04-22",
+          "quantity": 6,
+          "reason": "return"
+        },
+        {
+          "id": "1745351306147",
+          "adjustment": -12,
+          "reason": "return",
+          "date": "2025-04-22T19:48:26.147Z"
+        },
+        {
+          "id": "1745351975825",
+          "adjustment": 1,
+          "reason": "damaged",
+          "date": "2025-04-22T19:59:35.825Z"
+        },
+        {
+          "id": "1746258565230",
+          "adjustment": 4,
+          "reason": "other",
+          "date": "2025-05-03T07:49:25.230Z"
+        },
+        {
+          "id": "1746258579526",
+          "adjustment": -5,
+          "reason": "damaged",
+          "date": "2025-05-03T07:49:39.526Z"
+        },
+        {
+          "id": "1746260274938",
+          "adjustment": 30000444,
+          "reason": "found",
+          "date": "2025-05-03T08:17:54.938Z"
+        },
+        {
+          "id": "1746260453916",
+          "adjustment": 10,
+          "reason": "return",
+          "date": "2025-05-03T08:20:53.916Z"
+        },
+        {
+          "id": "1746260518000",
+          "adjustment": -10,
+          "reason": "theft",
+          "date": "2025-05-03T08:21:58.000Z"
+        },
+        {
+          "id": "1746262028342",
+          "adjustment": 10,
+          "reason": "return",
+          "date": "2025-05-03T08:47:08.342Z"
+        },
+        {
+          "id": "1746262229347",
+          "adjustment": -222,
+          "reason": "damaged",
+          "date": "2025-05-03T08:50:29.347Z"
+        },
+        {
+          "id": "1746262388387",
+          "adjustment": -11111,
+          "reason": "damaged",
+          "date": "2025-05-03T08:53:08.387Z"
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "sku_code": "SKU-007",
+      "item_name": "Laptop Pro 2",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "brand": "Samsung",
+      "active": false,
+      "branch_id": "1",
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-007&code=code128",
+      "quantity": 0,
+      "reserved": 0,
+      "reorder_threshold": 0,
+      "adjustments": []
+    },
+    {
+      "id": "108",
+      "sku_code": "SKU-008",
+      "item_name": "Laptop Pro 3",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "brand": "Samsung",
+      "active": false,
+      "branch_id": "2",
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-008&code=QRCode",
+      "quantity": 0,
+      "reserved": 0,
+      "reorder_threshold": 0,
+      "adjustments": []
+    },
+    {
+      "id": "109",
+      "sku_code": "SKU-009",
+      "item_name": "Bluetooth Speaker Pro",
+      "category": "Audio",
+      "subcategory": "Speakers",
+      "brand": "BassBoom",
+      "active": false,
+      "branch_id": "3",
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-009&code=QRCode",
+      "quantity": 10,
+      "reserved": 0,
+      "reorder_threshold": 5,
+      "adjustments": []
+    },
+    {
+      "id": "110",
+      "sku_code": "SKU-010",
+      "item_name": "iPhone 12",
+      "category": "Electronics",
+      "subcategory": "Mobiles",
+      "brand": "Apple",
+      "active": false,
+      "branch_id": "8",
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-010&code=code128",
+      "quantity": 200,
+      "reserved": 0,
+      "reorder_threshold": 15,
+      "adjustments": [
+        {
+          "id": "1746262687701",
+          "adjustment": 100,
+          "reason": "return",
+          "date": "2025-05-03T08:58:07.701Z"
+        },
+        {
+          "id": "1746263102802",
+          "adjustment": 50,
+          "reason": "return",
+          "date": "2025-05-03T09:05:02.802Z"
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "item_name": "Iphone 16",
+      "sku_code": "SKU-111",
+      "category": "Electronics",
+      "subcategory": "Mobiles",
+      "brand": "apple",
+      "active": true,
+      "branch_id": "5",
+      "quantity": 50,
+      "reserved": 0,
+      "reorder_threshold": 15,
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-111&code=QRCode"
+    },
+    {
+      "id": "112",
+      "item_name": "iphone 8",
+      "sku_code": "SKU-112",
+      "category": "Electronics",
+      "subcategory": "Mobiles",
+      "brand": "apple",
+      "active": true,
+      "branch_id": "6",
+      "quantity": 50,
+      "reserved": 0,
+      "reorder_threshold": 15,
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-112&code=QRCode"
+    },
+    {
+      "id": "113",
+      "item_name": "Laptop Pro 10",
+      "sku_code": "SKU-113",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "brand": "apple",
+      "active": true,
+      "branch_id": "1",
+      "quantity": 50,
+      "reserved": 0,
+      "reorder_threshold": 15,
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-113&code=code128"
+    },
+    {
+      "id": "114",
+      "item_name": "iphone 13",
+      "sku_code": "SKU-024",
+      "category": "Electronics",
+      "subcategory": "Mobiles",
+      "brand": "apple",
+      "active": false,
+      "branch_id": "4",
+      "quantity": 40,
+      "reserved": 0,
+      "reorder_threshold": 15,
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-024&code=QRCode",
+      "adjustments": [
+        {
+          "id": "1746255705995",
+          "adjustment": 10,
+          "reason": "return",
+          "date": "2025-05-03T07:01:45.995Z"
+        },
+        {
+          "id": "1746255717817",
+          "adjustment": -20,
+          "reason": "damaged",
+          "date": "2025-05-03T07:01:57.817Z"
+        }
+      ]
+    },
+    {
+      "id": "115",
+      "item_name": "Laptop Pro 232424",
+      "sku_code": "SKU-115",
+      "category": "Electronics",
+      "subcategory": "Input Devices",
+      "brand": "23423423423",
+      "active": true,
+      "branch_id": "7",
+      "quantity": 50,
+      "reserved": 0,
+      "reorder_threshold": 15
+    },
+    {
+      "id": "116",
+      "item_name": "sdfasdfsdafasdf",
+      "sku_code": "SKU-116",
+      "category": "Accessories",
+      "subcategory": "Mobiles",
+      "brand": "SAMSUNG",
+      "active": true,
+      "branch_id": "10",
+      "quantity": 50,
+      "reserved": 0,
+      "reorder_threshold": 15
+    },
+    {
+      "id": "117",
+      "item_name": "sdfasdfasdfasdfasdf",
+      "sku_code": "SKU-117",
+      "category": "Electronics",
+      "subcategory": "Mobiles",
+      "brand": "dfasdfasdf",
+      "active": true,
+      "branch_id": "1",
+      "quantity": 50,
+      "reserved": 0,
+      "reorder_threshold": 15
+    },
+    {
+      "id": "118",
+      "item_name": "34234234",
+      "sku_code": "SKU-118",
+      "category": "Accessories",
+      "subcategory": "Input Devices",
+      "brand": "2342342",
+      "active": true,
+      "branch_id": "2",
+      "quantity": 50,
+      "reserved": 0,
+      "reorder_threshold": 15
+    },
+    {
+      "id": "119",
+      "item_name": "234234234",
+      "sku_code": "SKU-119",
+      "category": "Accessories",
+      "subcategory": "Mobiles",
+      "brand": "234234234234",
+      "active": true,
+      "branch_id": 19,
+      "quantity": 50,
+      "reserved": 0,
+      "reorder_threshold": 15
+    },
+    {
+      "id": "120",
+      "item_name": "324234234242",
+      "sku_code": "SKU-120",
+      "category": "Accessories",
+      "subcategory": "Mobiles",
+      "brand": "2342342434",
+      "active": true,
+      "branch_id": 15,
+      "quantity": 50,
+      "reserved": 0,
+      "reorder_threshold": 15
+    },
+    {
+      "id": "121",
+      "item_name": "55645645645645456",
+      "sku_code": "SKU-121",
+      "category": "Accessories",
+      "subcategory": "Mobiles",
+      "brand": "45645645646",
+      "active": true,
+      "branch_id": "4",
+      "quantity": 50,
+      "reserved": 0,
+      "reorder_threshold": 15,
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-121&code=code128"
+    },
+    {
+      "id": "122",
+      "item_name": "2342342342",
+      "sku_code": "SKU-122",
+      "category": "Audio",
+      "subcategory": "Laptops",
+      "brand": "234234234",
+      "active": true,
+      "branch_id": "6",
+      "quantity": 50,
+      "reserved": 0,
+      "reorder_threshold": 15
+    },
+    {
+      "id": "123",
+      "item_name": "iphone 22",
+      "sku_code": "SKU-123",
+      "category": "Electronics",
+      "subcategory": "Input Devices",
+      "brand": "apple",
+      "active": true,
+      "branch_id": 24,
+      "quantity": 50,
+      "reserved": 0,
+      "reorder_threshold": 15
+    }
+  ],
+  "stock_adjustments": [
+    {
+      "id": "1",
+      "sku_id": "104",
+      "adjustment": -2,
+      "reason": "Returned item damaged",
+      "date": "2023-05-10",
+      "user": "warehouse"
+    },
+    {
+      "id": "2",
+      "sku_id": "103",
+      "adjustment": 5,
+      "reason": "Correction from audit",
+      "date": "2023-05-15",
+      "user": "admin"
+    },
+    {
+      "id": "887b",
+      "sku_id": "105",
+      "adjustment": -10,
+      "reason": "damaged",
+      "notes": "",
+      "date": "2025-04-22",
+      "user": "current_user",
+      "quantity": "10"
+    },
+    {
+      "id": "063d",
+      "sku_code": "SKU-006",
+      "adjustmentType": "increase",
+      "quantity": "50",
+      "reason": "return",
+      "date": "2025-04-22",
+      "sku_id": "106",
+      "adjustment": 50
+    },
+    {
+      "id": "ebfb",
+      "sku_code": "SKU-006",
+      "adjustmentType": "decrease",
+      "quantity": "50",
+      "reason": "found",
+      "date": "2025-04-22",
+      "sku_id": "106",
+      "adjustment": -50
+    },
+    {
+      "id": "cb7d",
+      "sku_code": "SKU-006",
+      "adjustmentType": "increase",
+      "quantity": "6",
+      "reason": "return",
+      "date": "2025-04-22",
+      "sku_id": "106",
+      "adjustment": 6
+    },
+    {
+      "id": "a65a",
+      "sku_id": "101",
+      "adjustment": -12,
+      "reason": "return",
+      "date": "2025-04-22T19:48:01.406Z"
+    },
+    {
+      "id": "42c2",
+      "sku_id": "106",
+      "adjustment": -12,
+      "reason": "return",
+      "date": "2025-04-22T19:48:26.140Z"
+    },
+    {
+      "id": "8f62",
+      "sku_id": "101",
+      "adjustment": 10,
+      "reason": "return",
+      "date": "2025-04-22T19:57:17.493Z"
+    },
+    {
+      "id": "bd98",
+      "sku_id": "106",
+      "adjustment": 1,
+      "reason": "damaged",
+      "date": "2025-04-22T19:59:35.815Z"
+    },
+    {
+      "id": "a912",
+      "sku_id": "101",
+      "adjustment": -5,
+      "reason": "return",
+      "date": "2025-04-22T20:01:29.580Z"
+    },
+    {
+      "id": "ab3f",
+      "sku_id": "101",
+      "adjustment": 5,
+      "reason": "return",
+      "date": "2025-04-22T20:01:38.564Z"
+    },
+    {
+      "id": "cf82",
+      "sku_id": "101",
+      "adjustment": -5,
+      "reason": "theft",
+      "date": "2025-04-22T20:01:51.189Z"
+    },
+    {
+      "id": "88c5",
+      "sku_id": "114",
+      "adjustment": 10,
+      "reason": "return",
+      "date": "2025-05-03T07:01:45.983Z"
+    },
+    {
+      "id": "653d",
+      "sku_id": "114",
+      "adjustment": -20,
+      "reason": "damaged",
+      "date": "2025-05-03T07:01:57.808Z"
+    },
+    {
+      "id": "840e",
+      "sku_id": "101",
+      "adjustment": -10,
+      "reason": "return",
+      "date": "2025-05-03T07:07:10.425Z"
+    },
+    {
+      "id": "a8de",
+      "sku_id": "101",
+      "adjustment": 30,
+      "reason": "found",
+      "date": "2025-05-03T07:07:38.648Z"
+    },
+    {
+      "id": "0f83",
+      "sku_id": "101",
+      "adjustment": 30,
+      "reason": "return",
+      "date": "2025-05-03T07:18:26.335Z"
+    },
+    {
+      "id": "0dcb",
+      "sku_id": "106",
+      "adjustment": 4,
+      "reason": "other",
+      "date": "2025-05-03T07:49:25.210Z"
+    },
+    {
+      "id": "1e10",
+      "sku_id": "106",
+      "adjustment": -5,
+      "reason": "damaged",
+      "date": "2025-05-03T07:49:39.501Z"
+    },
+    {
+      "id": "9e12",
+      "sku_id": "101",
+      "adjustment": 213123,
+      "reason": "return",
+      "date": "2025-05-03T08:16:14.169Z"
+    },
+    {
+      "id": "14f7",
+      "sku_id": "105",
+      "adjustment": 30,
+      "reason": "found",
+      "date": "2025-05-03T08:17:09.471Z"
+    },
+    {
+      "id": "736b",
+      "sku_id": "106",
+      "adjustment": 30000444,
+      "reason": "found",
+      "date": "2025-05-03T08:17:54.923Z"
+    },
+    {
+      "id": "3566",
+      "sku_id": "106",
+      "adjustment": 10,
+      "reason": "return",
+      "date": "2025-05-03T08:20:53.907Z"
+    },
+    {
+      "id": "0511",
+      "sku_id": "106",
+      "adjustment": -10,
+      "reason": "theft",
+      "date": "2025-05-03T08:21:57.990Z"
+    },
+    {
+      "id": "2867",
+      "sku_id": "106",
+      "adjustment": 10,
+      "reason": "return",
+      "date": "2025-05-03T08:47:08.332Z"
+    },
+    {
+      "id": "01c5",
+      "sku_id": "105",
+      "adjustment": 10,
+      "reason": "found",
+      "date": "2025-05-03T08:49:21.291Z"
+    },
+    {
+      "id": "bc4b",
+      "sku_id": "106",
+      "adjustment": -222,
+      "reason": "damaged",
+      "date": "2025-05-03T08:50:29.337Z"
+    },
+    {
+      "id": "a2ad",
+      "sku_id": "105",
+      "adjustment": 3333,
+      "reason": "damaged",
+      "date": "2025-05-03T08:51:34.693Z"
+    },
+    {
+      "id": "c373",
+      "sku_id": "106",
+      "adjustment": -11111,
+      "reason": "damaged",
+      "date": "2025-05-03T08:53:08.377Z"
+    },
+    {
+      "id": "5f39",
+      "sku_id": "105",
+      "adjustment": 101,
+      "reason": "damaged",
+      "date": "2025-05-03T08:56:26.288Z"
+    },
+    {
+      "id": "02ad",
+      "sku_id": "110",
+      "adjustment": 100,
+      "reason": "return",
+      "date": "2025-05-03T08:58:07.690Z"
+    },
+    {
+      "id": "8291",
+      "sku_id": "110",
+      "adjustment": 50,
+      "reason": "return",
+      "date": "2025-05-03T09:05:02.793Z"
+    }
+  ],
+  "stock_transfers": [
+    {
+      "id": "1",
+      "sku_id": "102",
+      "from_branch_id": "2",
+      "to_branch_id": "1",
+      "quantity": 5,
+      "date": "2023-05-12",
+      "status": "completed"
+    },
+    {
+      "id": "2",
+      "sku_id": "105",
+      "from_branch_id": "4",
+      "to_branch_id": "3",
+      "quantity": 10,
+      "date": "2023-05-18",
+      "status": "completed"
+    }
+  ],
+  "reorder_alerts": [
+    {
+      "sku_id": "102",
+      "branch_id": "1",
+      "triggered": true,
+      "id": "831a",
+      "date": "2023-05-20"
+    },
+    {
+      "sku_id": "104",
+      "branch_id": "1",
+      "triggered": true,
+      "id": "1305",
+      "date": "2023-05-11"
+    },
+    {
+      "sku_id": "106",
+      "branch_id": "3",
+      "triggered": true,
+      "id": "b3a6",
+      "date": "2023-05-15"
+    }
+  ]
+}
