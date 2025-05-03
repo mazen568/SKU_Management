@@ -1,7 +1,7 @@
 # SKU_Management
 
 ## 📌 Project Overview  
-SKU Management System helps businesses optimize inventory tracking and demand forecasting using data analysis and machine learning, improving stock efficiency and decision-making.
+The SKU Management System helps businesses optimize inventory tracking, improving stock efficiency and decision-making. This project focuses on enhancing frontend skills and providing an intuitive user interface for managing stock effectively.
 
 ## 🛠️ Tech Stack  
 - **Frontend**: React, Vite, Tailwind CSS  
