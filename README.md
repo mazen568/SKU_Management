@@ -10,7 +10,7 @@ The SKU Management System helps businesses optimize inventory tracking, improvin
 ## 🔧 Installation & Setup  
 Follow these steps to set up the project locally:  
 
-### 1️⃣ Clone the Repository  
+### 1️⃣ Run The Project 
 ```bash
 git clone https://github.com/mazen568/SKU_Management.git
 cd SKU
