@@ -121,7 +121,7 @@ export default function StockAdjustment() {
       <div className="bg-white rounded-lg shadow p-6">
         <form onSubmit={handleSubmit} className="space-y-4">
           <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">SKU ID</label>
+            <label className="block text-sm font-medium text-gray-700 mb-1">SKU ID (from database)</label>
             <input
               type="text"
               name="skuId"

@@ -67,94 +67,100 @@
       "contact": "MAZENRAFAT@GMAIL.COM"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "jkdfhdsjkhsdfj",
       "location": "sdfasdfasdf",
       "contact": "asdfasdfasdf"
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "34534534",
       "location": "LAS 34534345345",
       "contact": "34534535"
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "545645654",
       "location": "432423423423",
       "contact": "234234234"
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "234234234234",
       "location": "2342342342",
       "contact": "3242342"
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "mmmmmmm",
       "location": "mmmmmmmmm",
       "contact": "mmmmmmmm"
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "hello",
       "location": "asdadasda",
       "contact": "asdasdasdasd"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "asdasdas",
       "location": "asdasda",
       "contact": "asdasdsad"
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "asdasda",
       "location": "asdasdasda",
       "contact": "asdasd"
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "asdasdasasdasd",
       "location": "asdadas",
       "contact": "asdasdasd"
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "34534535343453",
       "location": "53453",
       "contact": "3453453453"
     },
     {
-      "id": 22,
+      "id": "22",
       "name": "3rwerwer",
       "location": "werwerwe",
       "contact": "rwerwe"
     },
     {
-      "id": 23,
+      "id": "23",
       "name": "2342342342342423",
       "location": "23423423423",
       "contact": "2342342344"
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "234234234234234234",
       "location": "2342342342342342",
       "contact": "234234234234234"
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "76556756756",
       "location": "56756756756",
       "contact": "56757567"
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "france branch",
       "location": "france",
       "contact": "france@gmail.com"
+    },
+    {
+      "id": 27,
+      "name": "Lisbon branch",
+      "location": "lisbon",
+      "contact": "ronaldo@gmail.com"
     }
   ],
   "skus": [
@@ -250,9 +256,9 @@
       "category": "Electronics",
       "subcategory": "Mobiles",
       "brand": "PhoneNova",
-      "active": true,
+      "active": false,
       "branch_id": "3",
-      "barcode": "",
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-003&code=QRCode",
       "quantity": 10,
       "reserved": 5,
       "reorder_threshold": 5,
@@ -275,8 +281,7 @@
       "brand": "ViewBright",
       "active": false,
       "branch_id": "1",
-      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-004&code=QRCode",
-      "quantity": 1,
+      "quantity": 30,
       "reserved": 1,
       "reorder_threshold": 6,
       "adjustments": [
@@ -286,8 +291,21 @@
           "quantity": -2,
           "reason": "Returned item damaged",
           "user": "warehouse"
+        },
+        {
+          "id": "1747408120903",
+          "adjustment": -1,
+          "reason": "damaged",
+          "date": "2025-05-16T15:08:40.903Z"
+        },
+        {
+          "id": "1747408136062",
+          "adjustment": 30,
+          "reason": "return",
+          "date": "2025-05-16T15:08:56.062Z"
         }
-      ]
+      ],
+      "barcode": "https://barcode.tec-it.com/barcode.ashx?data=SKU-004&code=code128"
     },
     {
       "id": "105",
@@ -690,6 +708,19 @@
       "quantity": 50,
       "reserved": 0,
       "reorder_threshold": 15
+    },
+    {
+      "id": "124",
+      "item_name": "MacBook air",
+      "sku_code": "SKU-124",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "brand": "Apple",
+      "active": true,
+      "branch_id": "14",
+      "quantity": 50,
+      "reserved": 0,
+      "reorder_threshold": 15
     }
   ],
   "stock_adjustments": [
@@ -937,6 +968,20 @@
       "adjustment": 50,
       "reason": "return",
       "date": "2025-05-03T09:05:02.793Z"
+    },
+    {
+      "id": "e49d",
+      "sku_id": "104",
+      "adjustment": -1,
+      "reason": "damaged",
+      "date": "2025-05-16T15:08:40.895Z"
+    },
+    {
+      "id": "6be6",
+      "sku_id": "104",
+      "adjustment": 30,
+      "reason": "return",
+      "date": "2025-05-16T15:08:56.056Z"
     }
   ],
   "stock_transfers": [

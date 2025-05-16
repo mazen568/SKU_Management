@@ -43,7 +43,7 @@ export default function SKUDeactivation() {
       <div className="bg-white rounded-lg shadow p-6">
         <form onSubmit={handleDeactivate} className="space-y-4">
           <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">Enter SKU ID</label>
+            <label className="block text-sm font-medium text-gray-700 mb-1">Enter SKU ID (from database)</label>
             <input
               type="text"
               value={skuToDeactivate}
@@ -52,7 +52,7 @@ export default function SKUDeactivation() {
                 setDeactivatedSKU(null); // Clear deactivated SKU details
               }}
               className="w-full p-2 border border-gray-300 rounded-md"
-              placeholder="Enter SKU ID to deactivate"
+              placeholder="Enter ID to deactivate"
               required
             />
           </div>
