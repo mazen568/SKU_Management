@@ -17,4 +17,9 @@ cd SKU
 cd frontend
 npm install
 npm run dev
+cd frontend
+cd src
+npm install -g http-server
+json-server --watch db.json --port 3000
+
 
